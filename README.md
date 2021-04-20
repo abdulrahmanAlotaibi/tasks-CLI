@@ -1,6 +1,6 @@
 # 📝 TODO CLI Tool
 
-I use [Notion](https://www.notion.so/) for research and bookmarking. But Notion has a slow navigation for TODOs and quick notes so I used pen and paper all the time. Then, I created this tool yesterday.
+I use [Notion](https://www.notion.so/) for research and bookmarking. But Notion has a slow navigation for TODOs and quick notes so I was using pen and paper all the time. Then, I created this tool yesterday.
 
 ## 🚀 Features
 - List 
