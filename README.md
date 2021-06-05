@@ -12,16 +12,3 @@ https://user-images.githubusercontent.com/50620277/115379208-fc6e6300-a1d9-11eb-
 - Un-Check
 - Remove
 
-## **Installation**
-
-### 1- Clone the repo 
-```bash
-git clone https://github.com/abdulrahmanAlotaibi/todo-CLI 
-```
-
-### 2- Run the build script
-
-```bash
-sudo /bin/bash build.sh
-```
-
